@@ -8,13 +8,10 @@ class AppColors {
   // Backgrounds
   static const Color background = Color(0xFFF6F7F9);
   static const Color darkBackground = Color(0xFF1C1F34);
-
+  static const Color bg = Color(0xFFF0F0FA);
   // Text
   static const Color heading = Color(0xFF5F60B9);
   static const Color bodyText = Color(0xFF6C757D);
   static const Color white = Color(0xFFFFFFFF);
-   static const Color black = Color(0xFF1C1F34); 
-
-
-  
+  static const Color black = Color(0xFF1C1F34);
 }
