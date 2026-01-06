@@ -19,7 +19,7 @@ class HomeScreen extends ConsumerWidget {
       HomePage(),
       BookingPage(),
       CategoryPage(),
-      ChatPage(),
+      ChatListPage(),
       ProfilePage(),
     ];
 
@@ -48,8 +48,8 @@ class HomeScreen extends ConsumerWidget {
           selectedItemColor: AppColors.primary,
           unselectedItemColor: Colors.grey,
 
-          showSelectedLabels: false, 
-          showUnselectedLabels: false, 
+          showSelectedLabels: false,
+          showUnselectedLabels: false,
 
           items: const [
             BottomNavigationBarItem(

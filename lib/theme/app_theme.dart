@@ -30,7 +30,7 @@ class AppTheme {
           fontSize: 14,
           fontWeight: FontWeight.w500,
           height: 1,
-          color: AppColors.primary,
+          color: AppColors.bodyText,
         ),
 
         /// Service Title
