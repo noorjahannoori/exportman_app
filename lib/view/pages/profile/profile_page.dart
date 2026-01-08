@@ -1,6 +1,6 @@
-import 'package:exportman/home/pages/profile/change_password.dart';
-import 'package:exportman/home/pages/profile/edit_profile.dart';
-import 'package:exportman/home/pages/profile/profile_provider.dart';
+import 'package:exportman/view/pages/profile/change_password.dart';
+import 'package:exportman/view/pages/profile/edit_profile.dart';
+import 'package:exportman/view/pages/profile/profile_provider.dart';
 import 'package:exportman/theme/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

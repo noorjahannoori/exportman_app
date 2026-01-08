@@ -1,4 +1,4 @@
-import 'package:exportman/home/pages/home/provider_home_page.dart';
+import 'package:exportman/view/pages/home/provider_home_page.dart';
 import 'package:exportman/seviceproviderdetailpages/servicepage.dart';
 import 'package:exportman/theme/colors.dart';
 import 'package:flutter/material.dart';

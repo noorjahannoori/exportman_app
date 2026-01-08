@@ -1,5 +1,5 @@
 import 'package:exportman/Model/home_page_model/service_model.dart';
-import 'package:exportman/home/pages/home/provider_home_page.dart';
+import 'package:exportman/view/pages/home/provider_home_page.dart';
 import 'package:exportman/seviceproviderdetailpages/servicepage.dart';
 import 'package:exportman/widgets/onboarding_dots.dart';
 

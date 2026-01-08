@@ -1,4 +1,4 @@
-import 'package:exportman/home/pages/chat/chat_provider.dart';
+import 'package:exportman/view/pages/chat/chat_provider.dart';
 import 'package:exportman/theme/colors.dart';
 import 'package:flutter/material.dart';
 

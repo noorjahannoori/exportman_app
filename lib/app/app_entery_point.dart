@@ -1,6 +1,6 @@
 import 'package:exportman/auth/login_screen.dart';
 import 'package:exportman/auth/sign_up_screeen.dart';
-import 'package:exportman/home/home_screen.dart';
+import 'package:exportman/view/home_screen.dart';
 import 'package:exportman/splesh/onboradingscreen/onboarding_screen.dart';
 import 'package:exportman/splesh/splesh_white.dart';
 import 'package:flutter/material.dart';

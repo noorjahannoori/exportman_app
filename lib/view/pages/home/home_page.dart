@@ -1,10 +1,10 @@
-import 'package:exportman/home/pages/home/provider_home_page.dart';
-import 'package:exportman/home/pages/home/widget/categery_gird.dart';
-import 'package:exportman/home/pages/home/widget/feature_section.dart';
-import 'package:exportman/home/pages/home/widget/home_search_bar.dart';
-import 'package:exportman/home/pages/home/widget/home_slider.dart';
+import 'package:exportman/view/pages/home/provider_home_page.dart';
+import 'package:exportman/view/pages/home/widget/categery_gird.dart';
+import 'package:exportman/view/pages/home/widget/feature_section.dart';
+import 'package:exportman/view/pages/home/widget/home_search_bar.dart';
+import 'package:exportman/view/pages/home/widget/home_slider.dart';
 
-import 'package:exportman/home/pages/home/widget/service_card.dart';
+import 'package:exportman/view/pages/home/widget/service_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

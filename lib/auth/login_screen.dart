@@ -1,5 +1,5 @@
 import 'package:exportman/auth/sign_up_screeen.dart';
-import 'package:exportman/home/home_screen.dart';
+import 'package:exportman/view/home_screen.dart';
 import 'package:exportman/theme/colors.dart';
 import 'package:exportman/widgets/app_resuable_textfield.dart';
 import 'package:exportman/widgets/auth_header.dart';

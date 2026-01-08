@@ -1,6 +1,6 @@
-import 'package:exportman/home/pages/category/category_page.dart';
-import 'package:exportman/home/pages/category/catergery_Detail_page.dart';
-import 'package:exportman/home/pages/home/provider_home_page.dart';
+import 'package:exportman/view/pages/category/category_page.dart';
+import 'package:exportman/view/pages/category/catergery_Detail_page.dart';
+import 'package:exportman/view/pages/home/provider_home_page.dart';
 import 'package:exportman/theme/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

@@ -1,4 +1,4 @@
-import 'package:exportman/home/pages/profile/profile_provider.dart';
+import 'package:exportman/view/pages/profile/profile_provider.dart';
 import 'package:exportman/widgets/app_resuable_textfield.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
